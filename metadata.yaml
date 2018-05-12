@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39376'
     url: http://www.gutenberg.org/2009/agents/39376
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38290#Speciation-and-Evolution-of-the-Pygmy-Mice-Genus-Baiomys
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Mammals
